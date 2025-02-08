@@ -19,7 +19,7 @@ To end with a fake PayPal payment system, to finish the valve all the way by say
 
 
 ## Tips
-You can go to the real [TikTok page](https://www.tiktok.com/coin?lang=fr) and keep it in history. This will allow you to mark the link over the localhost or file location :)
+You can go to the real [TikTok page](37379669) and keep it in history. This will allow you to mark the link over the localhost or file location :)
 
 ![Preview](/img/Preview.png)
 
